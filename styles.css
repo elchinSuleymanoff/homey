@@ -101,6 +101,6 @@ transition: border-bottom 0.5s;
     padding-left: 20px;
     text-align:center;
 }
-img {
-  
-  }
+#brand-name {
+    text-align: center;
+}
